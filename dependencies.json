@@ -1,0 +1,179 @@
+{
+  "dependencies": {
+    "RED4ext-2380-1-27-0-1737651915.zip": [],
+    "ArchiveXL-4198-1-21-1-1737797101.zip": [
+      "RED4ext-2380-1-27-0-1737651915.zip"
+    ],
+    "TweakXL-4197-1-10-8-1738500388.zip": [
+      "RED4ext-2380-1-27-0-1737651915.zip"
+    ],
+    "Apartment Cats - The Glen-6276-2-1-1-1740786838.zip": [
+      "ArchiveXL-4198-1-21-1-1737797101.zip",
+      "RED4ext-2380-1-27-0-1737651915.zip",
+      "TweakXL-4197-1-10-8-1738500388.zip"
+    ],
+    "redscript-1511-0-5-28-1739731226.zip": [],
+    "mod_settings.zip-4885-0-2-8-1710978150.zip": [
+      "ArchiveXL-4198-1-21-1-1737797101.zip",
+      "RED4ext-2380-1-27-0-1737651915.zip",
+      "redscript-1511-0-5-28-1739731226.zip"
+    ],
+    "Limited Fast Travel - Remove All-1889-1-0-1699438875.zip": [
+      "mod_settings.zip-4885-0-2-8-1710978150.zip",
+      "RED4ext-2380-1-27-0-1737651915.zip",
+      "redscript-1511-0-5-28-1739731226.zip",
+      "TweakXL-4197-1-10-8-1738500388.zip"
+    ],
+    "CET 1.35.0 - Patch 2.21-107-1-35-0-1737654030.zip": [],
+    "Native Settings UI 1.96-3518-1-96-1704576025.zip": [
+      "CET 1.35.0 - Patch 2.21-107-1-35-0-1737654030.zip"
+    ],
+    "Hidden Gems as Random Events-16619-1-2-1726682704.zip": [
+      "CET 1.35.0 - Patch 2.21-107-1-35-0-1737654030.zip",
+      "Native Settings UI 1.96-3518-1-96-1704576025.zip"
+    ],
+    "Codeware-7780-1-15-0-1737651995.zip": [
+      "RED4ext-2380-1-27-0-1737651915.zip"
+    ],
+    "input_loader.zip-4575-0-2-2-1709344282.zip": [
+      "RED4ext-2380-1-27-0-1737651915.zip"
+    ],
+    "Trigger Mode Control-13077-2-6-0-1741506700.zip": [
+      "ArchiveXL-4198-1-21-1-1737797101.zip",
+      "Codeware-7780-1-15-0-1737651995.zip",
+      "input_loader.zip-4575-0-2-2-1709344282.zip",
+      "mod_settings.zip-4885-0-2-8-1710978150.zip",
+      "RED4ext-2380-1-27-0-1737651915.zip",
+      "redscript-1511-0-5-28-1739731226.zip",
+      "TweakXL-4197-1-10-8-1738500388.zip"
+    ],
+    "Extra Iconics-15889-2-0-1-1739280391.zip": [
+      "ArchiveXL-4198-1-21-1-1737797101.zip",
+      "Codeware-7780-1-15-0-1737651995.zip",
+      "redscript-1511-0-5-28-1739731226.zip",
+      "Trigger Mode Control-13077-2-6-0-1741506700.zip",
+      "TweakXL-4197-1-10-8-1738500388.zip"
+    ],
+    "Equipment-EX-6945-1-2-8-1737652896.zip": [
+      "ArchiveXL-4198-1-21-1-1737797101.zip",
+      "Codeware-7780-1-15-0-1737651995.zip",
+      "RED4ext-2380-1-27-0-1737651915.zip",
+      "redscript-1511-0-5-28-1739731226.zip",
+      "TweakXL-4197-1-10-8-1738500388.zip"
+    ],
+    "Romance Hangouts Enhanced-11590-2-1-2-1740793125.zip": [
+      "ArchiveXL-4198-1-21-1-1737797101.zip",
+      "RED4ext-2380-1-27-0-1737651915.zip"
+    ],
+    "BrowserExtensionFramework-10038-0-9-5-1701186644.zip": [
+      "Codeware-7780-1-15-0-1737651995.zip",
+      "RED4ext-2380-1-27-0-1737651915.zip",
+      "redscript-1511-0-5-28-1739731226.zip"
+    ],
+    "Virtual Atelier-2987-1-2-10-1739300533.zip": [
+      "ArchiveXL-4198-1-21-1-1737797101.zip",
+      "BrowserExtensionFramework-10038-0-9-5-1701186644.zip",
+      "Codeware-7780-1-15-0-1737651995.zip",
+      "mod_settings.zip-4885-0-2-8-1710978150.zip",
+      "RED4ext-2380-1-27-0-1737651915.zip",
+      "redscript-1511-0-5-28-1739731226.zip"
+    ],
+    "Cyberarms Collection 2.0-13846-1-1-1712511440.zip": [
+      "ArchiveXL-4198-1-21-1-1737797101.zip",
+      "Equipment-EX-6945-1-2-8-1737652896.zip",
+      "RED4ext-2380-1-27-0-1737651915.zip",
+      "redscript-1511-0-5-28-1739731226.zip",
+      "TweakXL-4197-1-10-8-1738500388.zip",
+      "Virtual Atelier-2987-1-2-10-1739300533.zip"
+    ],
+    "void_Modular_Harness-16348-1-1-1725743180.zip": [
+      "ArchiveXL-4198-1-21-1-1737797101.zip",
+      "Codeware-7780-1-15-0-1737651995.zip",
+      "Equipment-EX-6945-1-2-8-1737652896.zip",
+      "TweakXL-4197-1-10-8-1738500388.zip"
+    ]
+  },
+  "dependents": {
+    "RED4ext-2380-1-27-0-1737651915.zip": [
+      "ArchiveXL-4198-1-21-1-1737797101.zip",
+      "TweakXL-4197-1-10-8-1738500388.zip",
+      "Apartment Cats - The Glen-6276-2-1-1-1740786838.zip",
+      "mod_settings.zip-4885-0-2-8-1710978150.zip",
+      "Limited Fast Travel - Remove All-1889-1-0-1699438875.zip",
+      "Codeware-7780-1-15-0-1737651995.zip",
+      "input_loader.zip-4575-0-2-2-1709344282.zip",
+      "Trigger Mode Control-13077-2-6-0-1741506700.zip",
+      "Equipment-EX-6945-1-2-8-1737652896.zip",
+      "Romance Hangouts Enhanced-11590-2-1-2-1740793125.zip",
+      "BrowserExtensionFramework-10038-0-9-5-1701186644.zip",
+      "Virtual Atelier-2987-1-2-10-1739300533.zip",
+      "Cyberarms Collection 2.0-13846-1-1-1712511440.zip"
+    ],
+    "ArchiveXL-4198-1-21-1-1737797101.zip": [
+      "Apartment Cats - The Glen-6276-2-1-1-1740786838.zip",
+      "mod_settings.zip-4885-0-2-8-1710978150.zip",
+      "Trigger Mode Control-13077-2-6-0-1741506700.zip",
+      "Extra Iconics-15889-2-0-1-1739280391.zip",
+      "Equipment-EX-6945-1-2-8-1737652896.zip",
+      "Romance Hangouts Enhanced-11590-2-1-2-1740793125.zip",
+      "Virtual Atelier-2987-1-2-10-1739300533.zip",
+      "Cyberarms Collection 2.0-13846-1-1-1712511440.zip",
+      "void_Modular_Harness-16348-1-1-1725743180.zip"
+    ],
+    "TweakXL-4197-1-10-8-1738500388.zip": [
+      "Apartment Cats - The Glen-6276-2-1-1-1740786838.zip",
+      "Limited Fast Travel - Remove All-1889-1-0-1699438875.zip",
+      "Trigger Mode Control-13077-2-6-0-1741506700.zip",
+      "Extra Iconics-15889-2-0-1-1739280391.zip",
+      "Equipment-EX-6945-1-2-8-1737652896.zip",
+      "Cyberarms Collection 2.0-13846-1-1-1712511440.zip",
+      "void_Modular_Harness-16348-1-1-1725743180.zip"
+    ],
+    "redscript-1511-0-5-28-1739731226.zip": [
+      "mod_settings.zip-4885-0-2-8-1710978150.zip",
+      "Limited Fast Travel - Remove All-1889-1-0-1699438875.zip",
+      "Trigger Mode Control-13077-2-6-0-1741506700.zip",
+      "Extra Iconics-15889-2-0-1-1739280391.zip",
+      "Equipment-EX-6945-1-2-8-1737652896.zip",
+      "BrowserExtensionFramework-10038-0-9-5-1701186644.zip",
+      "Virtual Atelier-2987-1-2-10-1739300533.zip",
+      "Cyberarms Collection 2.0-13846-1-1-1712511440.zip"
+    ],
+    "mod_settings.zip-4885-0-2-8-1710978150.zip": [
+      "Limited Fast Travel - Remove All-1889-1-0-1699438875.zip",
+      "Trigger Mode Control-13077-2-6-0-1741506700.zip",
+      "Virtual Atelier-2987-1-2-10-1739300533.zip"
+    ],
+    "CET 1.35.0 - Patch 2.21-107-1-35-0-1737654030.zip": [
+      "Native Settings UI 1.96-3518-1-96-1704576025.zip",
+      "Hidden Gems as Random Events-16619-1-2-1726682704.zip"
+    ],
+    "Native Settings UI 1.96-3518-1-96-1704576025.zip": [
+      "Hidden Gems as Random Events-16619-1-2-1726682704.zip"
+    ],
+    "Codeware-7780-1-15-0-1737651995.zip": [
+      "Trigger Mode Control-13077-2-6-0-1741506700.zip",
+      "Extra Iconics-15889-2-0-1-1739280391.zip",
+      "Equipment-EX-6945-1-2-8-1737652896.zip",
+      "BrowserExtensionFramework-10038-0-9-5-1701186644.zip",
+      "Virtual Atelier-2987-1-2-10-1739300533.zip",
+      "void_Modular_Harness-16348-1-1-1725743180.zip"
+    ],
+    "input_loader.zip-4575-0-2-2-1709344282.zip": [
+      "Trigger Mode Control-13077-2-6-0-1741506700.zip"
+    ],
+    "Trigger Mode Control-13077-2-6-0-1741506700.zip": [
+      "Extra Iconics-15889-2-0-1-1739280391.zip"
+    ],
+    "BrowserExtensionFramework-10038-0-9-5-1701186644.zip": [
+      "Virtual Atelier-2987-1-2-10-1739300533.zip"
+    ],
+    "Equipment-EX-6945-1-2-8-1737652896.zip": [
+      "Cyberarms Collection 2.0-13846-1-1-1712511440.zip",
+      "void_Modular_Harness-16348-1-1-1725743180.zip"
+    ],
+    "Virtual Atelier-2987-1-2-10-1739300533.zip": [
+      "Cyberarms Collection 2.0-13846-1-1-1712511440.zip"
+    ]
+  }
+}
